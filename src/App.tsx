@@ -1,8 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import axiosInstance from "./axios";
 
 function App() {
+  axiosInstance.get("/api/v1").then(r => console.log(r))
+
   return (
     <div className="App">
       <header className="App-header">
