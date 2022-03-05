@@ -7,6 +7,7 @@ npm start
 ```
 
 ### Todo
+- Setup css styleset
 - Setup redux store
 - Setup axios req & res layer
 - Clear-up test 
