@@ -11,3 +11,4 @@ npm start
 - Setup axios req & res layer
 - Clear-up test 
 - Deploy on the cloud
+- Clear-up branch strategy
